@@ -1,2 +1,2 @@
-class App():
-  pass
+class App:
+    pass
